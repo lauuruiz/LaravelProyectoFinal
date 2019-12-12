@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 3vh;
+    margin-top: 5vh;
+}
+
+.iconoFlecha{
+    display: flex;
+    justify-content: center;
+}
+
+.iconoFlecha i{
+font-size: 25px;
+}
+
+.rowTablaIcono{
+    display: flex;
+    align-items: center;
+}
